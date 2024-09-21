@@ -93,7 +93,7 @@ The integration of PCS has become a vital aspect of modern port operations. In t
 - **🤖 AI-Driven Predictive Analytics**: Implement AI algorithms to predict cargo movements, identify bottlenecks, and optimize port operations.
 
 ### **🔧 Unity Code Snippet: Cargo Movement Logic**
-```csharp
+
 // Minimal code snippet representing dynamic cargo movement in PCS
 public class CargoMovement : MonoBehaviour
 {
@@ -163,7 +163,7 @@ The **Unity-based PCS simulation** replicated real-world scenarios involving car
 
 ### **🔧 Unity Code Snippet: Real-Time Data Exchange in PCS**
 
-```csharp
+
 // Simplified code snippet showcasing real-time data exchange between port stakeholders
 public class DataExchange : MonoBehaviour
 {
